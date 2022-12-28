@@ -416,9 +416,7 @@ footer p{
     align-items: center;
 }
 .main_text_recent h3{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 22px;
     line-height: 60px;
     display: flex;
@@ -426,9 +424,7 @@ footer p{
     color: #21243D;
 }
 .main_text_recent .more{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 16px;
     line-height: 24px;
     text-align: right;
@@ -448,18 +444,14 @@ footer p{
     margin-right: 20px;
 }
 .making_design h3{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 700;
+    font-family: 'heebobold';
     font-size: 26px;
     line-height: 38px;
     color: #21243D;
     margin-bottom: 17px;
 }
 .data{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 18px;
     line-height: 26px;
     color: #21243D;
@@ -467,9 +459,7 @@ footer p{
     border-right:1px solid #000000;
 }
 .place{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 18px;
     line-height: 26px;
     color: #21243D;
@@ -477,9 +467,7 @@ footer p{
 }
 .making_design p{
     margin-top: 11px;
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 16px;
     line-height: 24px;
     color: #21243D;
@@ -491,9 +479,7 @@ footer p{
     padding: 24px 21px 20px 23px;
 }
 .creating_pixel h3{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 700;
+    font-family: 'heebobold';
     font-size: 26px;
     line-height: 38px;
     color: #21243D;
@@ -501,9 +487,7 @@ footer p{
 }
 .creating_pixel p{
     margin-top: 11px;
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 16px;
     line-height: 24px;
     color: #21243D;
@@ -522,9 +506,7 @@ footer p{
     margin: auto;
 }
 .main_text_blog{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 700;
+    font-family: 'heebobold';
     font-size: 44px;
     line-height: 60px;
     color: #21243D;
@@ -539,9 +521,7 @@ footer p{
 
 }
 .ul_interactions h3{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 500;
+    font-family: 'heebomedium';
     font-size: 30px;
     line-height: 44px;
     color: #21243D;
@@ -552,27 +532,21 @@ footer p{
 .data2{
     padding-right: 20px;
     border-right:1px solid #000000;
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 20px;
     line-height: 29px;
     color: #21243D;
 }
 .place2{
     padding-left: 20px;
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 20px;
     line-height: 29px;
     color: #8695A4;
 }
 .ul_interactions p{
     margin-top:15px;
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'heeboregular';
     font-size: 16px;
     line-height: 24px;
     color: #21243D;
